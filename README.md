@@ -1,2 +1,0 @@
-# wanderingBI
-website
